@@ -1,0 +1,1 @@
+This is the file that is going to be renamed and then deleted for Exercise 6 of the Udemy course Git and GitHub for Writers.
